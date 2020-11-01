@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Programmer\'s Calculator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="instructions">
+        <font color="white">
+            <font size="20">Using the Binary Calculator:\n\n</font>
+            <font size="18">The binary calculator only works for binary numbers. To use "NOT" enter a number in the Number1 box. To use any other function enter the first number in the Number1 box and the other number in the Number2 box. Make sure that the numbers are of equal length.\n\n\n</font>
+            <font size="20">Using the Binary Conversions:\n\n</font>
+            <font size="18">Enter a valid number in any one of the boxes and it will get converted into the other two. \n\n\n</font>
+            <font size="20">Using the Any Base Converter:\n\n</font>
+            <font size="18">Enter a decimal number in the box and select any base from the menu. The default is 2. \n\n\n</font>
+            <font size="20">Thank you for using the app.</font>
+        </font>
+    </string>
+    <string name="home_second">Home Second</string>
+    <string-array name="numbers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>
